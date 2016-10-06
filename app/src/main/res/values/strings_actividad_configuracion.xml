@@ -1,0 +1,20 @@
+<resources>
+    <string name="titulo_actividad_configuracion">Configuración</string>
+    
+    <string name="categorias_notificaciones">Notificaciones</string>
+    
+    <string name="titulo_preferencia">Frecuencia de notificaciones de pago</string>
+    <string name="key_preferencia">lista_frecuencias</string>
+    <string-array name="lista_frecuencias">
+        <item>Notificaciones diarias</item>
+        <item>Notificacioes semanales</item>
+        <item>Notificaciones mensuales</item>
+        <item>No quiero recibir notificaciones</item>
+    </string-array>
+    <string-array name="lista_valores_frecuencia">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
